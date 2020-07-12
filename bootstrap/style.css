@@ -1,0 +1,83 @@
+body{
+	font-family: montserrat;
+	background-color:#FFFFFF;
+	color: #FFFFFF;
+
+}
+.navbar{
+	background: #ffdd66;
+	border-bottom: #ededed 3px solid;
+	opacity: 0.9;
+}
+
+#home-section{
+	background: url(./img/blur.jpg);
+	min-height: 700px;
+	background-size: cover;
+	background-attachment: fixed;
+}        
+
+#home-section .fa {
+	color: #008ed6;
+	background: #24292E;
+	padding: 4px;
+	border-radius: 5px;
+	font-size: 30px;
+}
+
+
+.drak-overlay{
+	background-color: rgba(0, 0, 0, 0.7);
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	min-height: 700px;
+}
+
+.home-inner {
+	padding-top: 150px;
+}
+
+#create-section .fa {
+	color: #008ed6;
+	background: #24292E;
+	padding: 4px;
+	border-radius: 5px;
+	font-size: 30px;
+}
+
+
+#shered-section .fa{
+	color: #008ed6;
+	background: #24292E;
+	padding: 4px;
+	border-radius: 5px;
+	font-size: 30px;
+}
+ #profile .lead{
+ 	color: #5F5F5F;
+ }
+
+ #profile .display-4{
+ 	color: #5F5F5F;	
+ }
+
+ #create-section .container{
+ 	color: #5F5F5F;		
+ }
+
+
+/*
+
+#home-section.drak-overlay.home-inner{
+	padding-top: 150px;
+}
+*/
+
+/*
+#expore-head-section{
+	background: #ededed;
+}*/
+
+
